@@ -1,2 +1,2 @@
 all:
-	g++ helloworld.cpp -o hellowprld    
+	g++ helloworld.cpp -o helloworld    
